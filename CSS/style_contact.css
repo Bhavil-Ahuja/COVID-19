@@ -1,0 +1,50 @@
+body{
+    background-color: #cdfffc;
+}
+
+h2{
+    font-size: 40px;
+}
+
+.harsh{
+    text-align: center;
+    text-decoration: underline;
+    left: 10%;
+    margin: 20px;
+    height: 400px;
+    width: 600px;
+    background-color: #ffefa1;
+}
+
+.gokul{
+    text-align: center;
+    position: relative;
+    text-decoration: underline;
+    left: 53%;
+    bottom: 435px;
+    height: 400px;
+    width: 600px;
+    background-color: #ffefa1;
+}
+
+.big{
+    height: 160px;
+    width: 160px;
+}
+
+.btn {
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    background: #215a9e;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #e6741c;
+    text-decoration: none;
+  }
